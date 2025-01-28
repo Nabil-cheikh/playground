@@ -1,0 +1,17 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook metadata
+*.ipynb-meta
+
+# Ignore Jupyter Notebook output files
+*.nbconvert/
+
+# Ignore Jupyter Notebook temporary files
+*.tmp
+
+# Ignore data directory
+data/
+
+# Ignore Python version file
+.python-version
